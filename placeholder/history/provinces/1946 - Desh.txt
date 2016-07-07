@@ -1,7 +1,7 @@
 #1946 - (Southern) Desh
 
-owner = VIJ
-controller = VIJ
+owner = CHD
+controller = CHD
 culture = marathi
 religion = hinduism
 capital = "Kolhapur"
@@ -12,7 +12,7 @@ base_production = 4
 base_manpower = 2
 is_city = yes
 estate = estate_dhimmi
-add_core = VIJ
+add_core = CHD
 add_core = BIJ
 
 
@@ -25,7 +25,7 @@ discovered_by = chinese
 
 
 1490.1.1 = {
-	remove_core = VIJ
+	remove_core = CHD
 	controller = BIJ
 	owner = BIJ
 } # The Breakup of the Bahmani sultanate
